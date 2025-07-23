@@ -40,8 +40,7 @@
 ![Матч](media/game1.png)  
 ![Матч](media/game2.png)
 ![Матч](media/game3.png)
-![Матч](media/game4.png)
-![Матч](media/game5.png)
+
 
 ---
 
@@ -61,4 +60,4 @@
 ## 📫 Контакты
 
 - GitHub: [davidmadridov](https://github.com/davidmadridov)
-- Telegram: [@твоя_ссылка](https://t.me/твойник)
+- Telegram: [@davidmadridov](https://t.me/davidmadridov)
