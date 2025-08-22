@@ -59,5 +59,5 @@
 
 ## 📫 Контакты
 
-- GitHub: [davidmadridov](https://github.com/davidmadridov)
+- GitHub: [madridov](https://github.com/madridov)
 - Telegram: [@davidmadridov](https://t.me/davidmadridov)
